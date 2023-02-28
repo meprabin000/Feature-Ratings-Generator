@@ -5,7 +5,7 @@ This paper proposes a novel method to generate ratings from reviews using a Baye
  ## Methodology
 The overall methodology implements a conceptual framework that consists of 4 sequential steps as in the figure below.
 
-### Data collection adn cleaning
+### Data collection and cleaning
 A freely available Amazon product review dataset is collected from Kaggle. There were a total of 1599 reviews for 62 different products. The features such as reviews, and product were extracted. Any data point that had empty or null value in reviews and product column were filtered out as part of the data cleaning.
 
 ### Popular features extraction
